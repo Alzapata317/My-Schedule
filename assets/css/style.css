@@ -69,4 +69,25 @@ body {
     font-size: 20px;
     transition: all 0.3s ease-in-out;
   }
-  
+
+  td input {
+    border: none;
+    appearance: none;
+    
+    width: 1000px;
+    height: 75px;
+  }
+  tbody, table {
+        width: 100%;
+        margin: 20px;
+
+  }
+  .green {
+    background: #77dd77;
+  }
+  .time {
+      border-top: 2.5px solid black;
+  }
+  .red {
+      background: #ff6961;
+  }
